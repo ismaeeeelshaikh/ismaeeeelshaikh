@@ -157,7 +157,6 @@ A **fully serverless legal AI application** built with AWS CDK (TypeScript).
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ismaeel-shaikh-imms)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ismaeeeelshaikh)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shaikhismaeel75123@gmail.com)
 
 **Build systems that scale. Build AI that works.** 🚀
@@ -166,6 +165,4 @@ A **fully serverless legal AI application** built with AWS CDK (TypeScript).
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ismaeeeelshaikh&color=00d9ff&style=for-the-badge" alt="Profile Views" />
-</div>
+
