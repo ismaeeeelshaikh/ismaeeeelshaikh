@@ -124,8 +124,6 @@ Full-stack serverless legal AI application integrating:
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ismaeeeelshaikh&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ismaeeeelshaikh&layout=compact&theme=tokyonight&hide_border=true)
-
 </div>
 
 ---
@@ -137,27 +135,6 @@ Full-stack serverless legal AI application integrating:
 ![Snake animation](https://raw.githubusercontent.com/ismaeeeelshaikh/ismaeeeelshaikh/output/github-contribution-grid-snake-dark.svg)
 
 </div>
-
----
-
-## 🏆 Achievements
-
-| 🏅 | Details |
-|---|---|
-| 🥇 **Shortlisted — AI for Bharat** | Google & Govt. of India National AI Initiative + $100 AWS Grant |
-| 🥈 **First Runner-Up — Sparkathon** | Inter-collegiate Hackathon @ APSIT |
-| 🏆 **GDG Solution Challenge** | Certificate of Achievement — Google Developer Groups |
-| 📜 **Elite NPTEL** | DBMS Certification — IIT Kharagpur |
-| 🤖 **IBM Agentic AI Architect** | From Learner to Builder |
-
----
-
-## 🔥 Current Focus
-
-- 🤖 Advanced Agentic AI Systems
-- ☁️ Large-Scale Serverless Architectures
-- 🔍 RAG Optimization & LLM Fine-tuning
-- 📚 DSA & System Design for Big Tech
 
 ---
 
