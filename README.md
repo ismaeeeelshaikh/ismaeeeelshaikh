@@ -14,8 +14,8 @@
 
 Passionate about building AI-powered applications and modern web solutions.
 
-- 🤖 **AI** — RAG applications, prompt engineering, LLM integration
 - 💻 **Full-Stack** — React, FastAPI, Python, Java, PostgreSQL
+- 🤖 **AI** — RAG applications, prompt engineering, LLM integration
 - ☁️ **Cloud & DevOps** — AWS, Docker, Jenkins, Git, CI/CD
 - 🚀 Continuously learning and building projects that solve real-world problems.
 
