@@ -2,9 +2,9 @@
 
 # ⚡ Ismaeel Shaikh ⚡
 
-### Serverless & GenAI Engineer | Full-Stack Developer | AWS CDK | RAG Specialist
+### Full-Stack Developer | AI Enthusiast | AWS Cloud Learner | RAG Applications
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+AI-Powered+Apps+at+Scale+%F0%9F%9A%80;AWS+Serverless+%7C+GenAI+%7C+Full-Stack;Shortlisted+%40+AI+for+Bharat+%F0%9F%8F%86;Always+Learning%2C+Always+Shipping+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full-Stack+%26+AI+Developer+%F0%9F%92%BB;Building+AI-Powered+Web+Applications+%F0%9F%9A%80;React+%7C+FastAPI+%7C+PostgreSQL;Exploring+AWS+%26+RAG+%F0%9F%8C%A5%EF%B8%8F;Always+Learning%2C+Always+Building+%E2%9A%A1)](https://git.io/typing-svg)
 
 </div>
 
