@@ -12,69 +12,97 @@
 
 ## 🧠 Who I Am
 
-I build **scalable, AI-powered systems** that solve real-world problems.
+Passionate about building AI-powered applications and modern web solutions.
 
-- 🤖 Generative AI — RAG pipelines, LLM orchestration, Prompt Engineering
-- ☁️ Serverless Cloud — AWS CDK, Lambda, API Gateway, Bedrock
-- 🔗 Full-Stack — React, Node.js, FastAPI, Firebase
-- 🛡️ DevOps & Security — Docker, Jenkins, CI/CD, Wireshark, Nmap
+🤖 **AI** — RAG applications, prompt engineering, LLM integration
+💻 **Full-Stack** — React, FastAPI, Python, Java, PostgreSQL
+☁️ **Cloud & DevOps** — AWS, Docker, Jenkins, Git, CI/CD
+🚀 Continuously learning and building projects that solve real-world problems.
 
-> I thrive in high-ownership environments where **speed, clarity, and product impact** matter.
 
 ---
 
 ## ⚙️ Tech Stack
 
-### 🤖 AI / ML
+### 🤖 AI & Machine Learning
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow&theme=dark" />
 </div>
 
-- RAG Pipelines & LLM Orchestration
-- LangChain | Groq | Amazon Bedrock
-- Claude 3.5 Sonnet | Amazon Nova Pro
-- Prompt Engineering | Vector Databases (ChromaDB)
+- RAG Applications
+- LangChain | Groq
+- Prompt Engineering
+- ChromaDB
 
 ---
 
-### ☁️ Cloud & Backend
+### ☁️ Backend & Cloud
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,typescript,python,nodejs,fastapi,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,postgres,docker,aws&theme=dark" />
 </div>
 
-- AWS Lambda | API Gateway | S3 | Cognito | DynamoDB
-- AWS CDK (IaC) | CloudFront | WebSockets
-- REST APIs | JWT Auth | Async Processing
+- FastAPI & REST APIs
+- PostgreSQL
+- JWT Authentication
+- Docker
+- Exploring AWS
 
 ---
 
-### 🎨 Frontend Systems
+### 🎨 Frontend
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,js,ts,vite,firebase&theme=dark" />
 </div>
 
-- Real-Time Dashboards & Event Platforms
-- Automated CI/CD Pipelines
-- Zero-Downtime Production Deployments
+- React & Vite
+- Responsive UI Development
+- Firebase
 
 ---
 
-### 🔧 DevOps & Security
+### 🔧 DevOps & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,jenkins,ansible,linux,postgres,mongodb&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,jenkins,postgres,mongodb&theme=dark" />
 </div>
 
-- Docker | Jenkins | Ansible | Git
-- Wireshark | Nmap | IDS | Firewalls
-- Ubuntu | CentOS | Windows
+- Git & GitHub
+- Docker & Jenkins
+- Linux
+- Wireshark & Nmap
 
 ---
 
 ## 🚀 Featured Projects
+
+### 🎁 Nayaab Gifts — Personalized Gift Store
+
+Modern e-commerce website for customized gifts.
+
+* ⚡ Built with **Next.js** and **MongoDB**
+* 🖼️ Cloudinary for image management
+* 💳 Cashfree Payment Gateway integration
+* 📱 Responsive and SEO-optimized
+
+**🛠️ Tech Stack:** Next.js • MongoDB • Cloudinary • Cashfree
+
+**🔗 Live:** https://nayaabgifts.me/
+
+---
+
+### 🌐 DevOps Club Official Website
+
+Production platform for APSIT DevOps Club:
+- ⚛️ React + Firebase real-time backend
+- 👥 Handled 96+ registrations (24 teams) with zero downtime
+- 🔄 Automated CI/CD deployment pipelines
+
+**🔗 Live:** https://devopsclub.apsit.edu.in/
+
+---
 
 ### ⚖️ Nyaya Mitra AI — Legal AI Platform
 > 🏆 **Shortlisted @ AI for Bharat | $100 AWS Grant Winner**
@@ -89,27 +117,6 @@ Full-stack serverless legal AI application integrating:
 
 ---
 
-### 🎓 Smart Campus Connect — AI RAG Assistant
-
-AI-powered college knowledge assistant built on:
-- 🔍 Full college website scraped & vectorized into ChromaDB
-- 🧠 Multi-turn memory via Groq LLM + PostgreSQL
-- 🔗 Modular LangChain pipeline — retrieval, ranking & generation decoupled
-
-**🔗 GitHub:** [ismaeeeelshaikh/college-ai-assistant](https://github.com/ismaeeeelshaikh/college-ai-assistant)
-
----
-
-### 🌐 DevOps Club Official Website
-
-Production platform for APSIT DevOps Club:
-- ⚛️ React + Firebase real-time backend
-- 👥 Handled 96+ registrations (24 teams) with zero downtime
-- 🔄 Automated CI/CD deployment pipelines
-
-**🔗 Live:** https://devopsclub.apsit.edu.in/
-
----
 
 ## 📊 System Analytics
 
@@ -158,11 +165,9 @@ Production platform for APSIT DevOps Club:
 
 <div align="center">
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://linkedin.com/in/ismaeel-shaikh-imms)
-&nbsp;&nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:shaikhismaeel75123@gmail.com)
 
-**Build systems that scale. Build AI that works.** ⚡
+**Learning continuously. Building consistently.** ⚡
 
 ---
 
